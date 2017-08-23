@@ -1,0 +1,18 @@
+[
+  {
+    "CrimeType": "Indexcrime",
+    "Total": 101868
+  },
+  {
+    "CrimeType": "Nonindexcrime",
+    "Total": 152390
+  },
+  {
+    "CrimeType": "Violentcrime",
+    "Total": 22817
+  },
+  {
+    "CrimeType": "Propertycrime",
+    "Total": 79051
+  }
+]
